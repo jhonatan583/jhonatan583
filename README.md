@@ -1,3 +1,5 @@
+# Perfil do GitHub de Jhonatan da Silva
+
 👋 Olá! Eu sou Jhonatan da Silva, estudante de programação <b>Full Stack.<b>
 
 🚀 Explorando o universo do desenvolvimento web, construindo aplicações do frontend ao backend.
@@ -26,13 +28,18 @@
 <br>
 <br>
 ## 📈 Estatísticas do GitHub
+<br>
+<br>
+
 ![jhonatan GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan583&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan583)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=jhonatan583)
+
+
 
 <div align="center">
 <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=RicardoMouraa&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
 <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMouraa&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
+
+![](https://komarev.com/ghpvc/?username=jhonatan583)
