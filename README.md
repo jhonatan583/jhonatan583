@@ -27,7 +27,7 @@
 
 <br>
 <br>
-## 📈 Estatísticas do GitHub
+
 <br>
 <br>
 
